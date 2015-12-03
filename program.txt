@@ -40,7 +40,7 @@ public class ProgApps{
 		System.out.println("Please input your name: ");
 		name = inputString();
 		System.out.println("Please input your age: ");
-		//input for age
+	        age= inputInteger();
 		System.out.println("Please input your birthdate(mm/dd/yyy): ");
 		//input for birthdate use inputString method
 		System.out.println("Please input your address: ");
