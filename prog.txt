@@ -50,7 +50,7 @@ public class ProgApps{
 	public void printResults(){
 		System.out.println("Your Name: "+ name);
 		// Print for age
-		// Print for birthdate
+		System.out.println("Your Birthday" + birthdate);
 		// Print for address
 	}
 }
